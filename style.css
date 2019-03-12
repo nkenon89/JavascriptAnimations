@@ -1,0 +1,17 @@
+html, body {
+    height: 100%
+}
+
+.container {
+    background-color: grey;
+    position: relative;
+
+}
+
+.box {
+    background-color: red;
+    width: 500px;
+    height: 500px;
+    position: relative;
+
+}
